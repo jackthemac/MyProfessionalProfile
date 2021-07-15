@@ -1,0 +1,1 @@
+This is my professional portfolio using a W3.CSS template called PHOTOLIO, for photographers, but adapted for a website designer.
